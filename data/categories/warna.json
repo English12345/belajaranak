@@ -1,0 +1,19 @@
+{
+  "id": "warna",
+  "nama": "Warna",
+  "iconEmoji": "🎨",
+  "warnaTema": "#2EC4B6",
+  "urutan": 1,
+  "kata": [
+    { "en": "Red",    "id": "Merah",  "emoji": "🔴" },
+    { "en": "Blue",   "id": "Biru",   "emoji": "🔵" },
+    { "en": "Yellow", "id": "Kuning", "emoji": "🟡" },
+    { "en": "Green",  "id": "Hijau",  "emoji": "🟢" },
+    { "en": "Orange", "id": "Oranye", "emoji": "🟠" },
+    { "en": "Purple", "id": "Ungu",   "emoji": "🟣" },
+    { "en": "Black",  "id": "Hitam",  "emoji": "⚫" },
+    { "en": "White",  "id": "Putih",  "emoji": "⚪" },
+    { "en": "Brown",  "id": "Coklat", "emoji": "🟤" },
+    { "en": "Pink",   "id": "Merah Muda", "emoji": "🩷" }
+  ]
+}

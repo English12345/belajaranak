@@ -1,0 +1,19 @@
+{
+  "id": "angka",
+  "nama": "Angka",
+  "iconEmoji": "🔢",
+  "warnaTema": "#FFC93C",
+  "urutan": 5,
+  "kata": [
+    { "en": "One",   "id": "Satu",   "emoji": "1️⃣" },
+    { "en": "Two",   "id": "Dua",    "emoji": "2️⃣" },
+    { "en": "Three", "id": "Tiga",   "emoji": "3️⃣" },
+    { "en": "Four",  "id": "Empat",  "emoji": "4️⃣" },
+    { "en": "Five",  "id": "Lima",   "emoji": "5️⃣" },
+    { "en": "Six",   "id": "Enam",   "emoji": "6️⃣" },
+    { "en": "Seven", "id": "Tujuh",  "emoji": "7️⃣" },
+    { "en": "Eight", "id": "Delapan","emoji": "8️⃣" },
+    { "en": "Nine",  "id": "Sembilan","emoji": "9️⃣" },
+    { "en": "Ten",   "id": "Sepuluh","emoji": "🔟" }
+  ]
+}

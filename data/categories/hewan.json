@@ -1,0 +1,19 @@
+{
+  "id": "hewan",
+  "nama": "Hewan",
+  "iconEmoji": "🐶",
+  "warnaTema": "#2EC4B6",
+  "urutan": 3,
+  "kata": [
+    { "en": "Dog",     "id": "Anjing",  "emoji": "🐶" },
+    { "en": "Cat",     "id": "Kucing",  "emoji": "🐱" },
+    { "en": "Rabbit",  "id": "Kelinci", "emoji": "🐰" },
+    { "en": "Elephant","id": "Gajah",   "emoji": "🐘" },
+    { "en": "Lion",    "id": "Singa",   "emoji": "🦁" },
+    { "en": "Tiger",   "id": "Harimau", "emoji": "🐯" },
+    { "en": "Monkey",  "id": "Monyet",  "emoji": "🐵" },
+    { "en": "Chicken", "id": "Ayam",    "emoji": "🐔" },
+    { "en": "Cow",     "id": "Sapi",    "emoji": "🐮" },
+    { "en": "Horse",   "id": "Kuda",    "emoji": "🐴" }
+  ]
+}

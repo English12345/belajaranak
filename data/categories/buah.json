@@ -1,0 +1,19 @@
+{
+  "id": "buah",
+  "nama": "Buah-buahan",
+  "iconEmoji": "🍎",
+  "warnaTema": "#FFC93C",
+  "urutan": 2,
+  "kata": [
+    { "en": "Apple",      "id": "Apel",     "emoji": "🍎" },
+    { "en": "Banana",     "id": "Pisang",   "emoji": "🍌" },
+    { "en": "Orange",     "id": "Jeruk",    "emoji": "🍊" },
+    { "en": "Grape",      "id": "Anggur",   "emoji": "🍇" },
+    { "en": "Watermelon", "id": "Semangka", "emoji": "🍉" },
+    { "en": "Strawberry", "id": "Stroberi", "emoji": "🍓" },
+    { "en": "Mango",      "id": "Mangga",   "emoji": "🥭" },
+    { "en": "Pineapple",  "id": "Nanas",    "emoji": "🍍" },
+    { "en": "Cherry",     "id": "Ceri",     "emoji": "🍒" },
+    { "en": "Coconut",    "id": "Kelapa",   "emoji": "🥥" }
+  ]
+}
