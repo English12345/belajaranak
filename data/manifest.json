@@ -1,0 +1,10 @@
+{
+  "_petunjuk": "Setiap kali menambah file kategori baru di folder data/categories/, tambahkan nama filenya (tanpa .json) di daftar 'aktif' di bawah ini. Urutan dalam daftar = urutan tampil di menu.",
+  "aktif": [
+    "warna",
+    "buah",
+    "hewan",
+    "hewan-laut",
+    "angka"
+  ]
+}
