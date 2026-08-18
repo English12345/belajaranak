@@ -3,7 +3,7 @@
   "nama": "Hewan",
   "iconEmoji": "🐶",
   "warnaTema": "#2EC4B6",
-  "urutan": 3,
+  "urutan": 6,
   "kata": [
     { "en": "Dog",     "id": "Anjing",  "emoji": "🐶" },
     { "en": "Cat",     "id": "Kucing",  "emoji": "🐱" },
